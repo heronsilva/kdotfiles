@@ -1,0 +1,39 @@
+[Desktop Entry]
+DefaultProfile=Heron.profile
+
+[DownloadDialog Settings]
+Height 1080=517
+Height 864=464
+Width 1536=700
+Width 1920=700
+eDP-1 Height 864=500
+eDP-1 Width 1536=700
+
+[Favorite Profiles]
+Favorites=Heron.profile
+
+[KFileDialog Settings]
+detailViewIconSize=0
+
+[KonsoleWindow]
+SaveGeometryOnExit=false
+ShowMenuBarByDefault=false
+ShowWindowTitleOnTitleBar=true
+UseSingleInstance=true
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAusAAAIEAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+eDP-1 XPosition=40
+eDP-1 YPosition=24
+
+[Open-with settings]
+CompletionMode=1
+History=code
+
+[TabBar]
+ExpandTabWidth=true
+
+[ThumbnailsSettings]
+ThumbnailCtrl=true
