@@ -1,0 +1,10 @@
+[autodisable]
+DisableWhenMousePluggedIn=true
+
+[parameters]
+CircScrollDelta=5.73
+InvertHorizScroll=true
+InvertVertScroll=true
+MaxTapMove=3.9
+OneFingerTapButton=NoButton
+Tapping=false
