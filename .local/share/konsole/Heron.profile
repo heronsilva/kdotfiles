@@ -1,8 +1,8 @@
 [Appearance]
 AntiAliasFonts=true
 BoldIntense=false
-ColorScheme=solarized.dark
-Font=MesloLGS NF,10,-1,5,50,0,0,0,0,0
+ColorScheme=Nova
+Font=Fantasque Sans Mono,11,-1,5,50,0,0,0,0,0
 LineSpacing=1
 UseFontLineChararacters=false
 
