@@ -2,8 +2,14 @@
 ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhkAAAACAQAAAQAAAAAAAAAAAAAAAH3/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAABHwAAAAEAAAAAAAAD6AAAAAB9
 
 [ConfigDialog]
+DP-1-1 Height 1440=540
+DP-1-1 Width 2560=684
 Height 1080=540
 Width 1920=684
+
+[DownloadDialog Settings]
+DP-1-1 Height 1440=521
+DP-1-1 Width 2560=700
 
 [General]
 Number of Actions=0
@@ -15,10 +21,12 @@ detailViewIconSize=0
 iconViewIconSize=43
 
 [KPropertiesDialog]
+DP-1-1 Height 1440=495
+DP-1-1 Width 2560=499
 Height 1080=534
 Width 1920=499
 eDP-1 Height 1080=513
-eDP-1 Width 1920=507
+eDP-1 Width 1920=526
 eDP-1-1 Height 1080=492
 eDP-1-1 Width 1920=463
 
@@ -35,27 +43,32 @@ sortOrder=0
 really_clear_history=true
 
 [PlasmaRunnerManager]
-LaunchCounts=2 services_applications:git-cola.desktop,1 services_applications:git-dag.desktop,1 services_applications:gparted.desktop,4 services_applications:jetbrains-toolbox.desktop,4 services_applications:com.uploadedlobster.peek.desktop,3 services_applications:code-insiders.desktop,1 services_applications:org.kde.kdeconnect.app.desktop,1 services_applications:brave-browser.desktop,1 services_applications:cookies.desktop,1 services_applications:kcm_printer_manager.desktop,2 services_applications:screenlocker.desktop,3 services_applications:kwindecoration.desktop,1 services_applications:kcm_colors.desktop,30 services_applications:kvantummanager.desktop,4 services_applications:jetbrains-studio.desktop,4 services_applications:simplescreenrecorder.desktop,2 services_applications:spotify.desktop,3 services_applications:cache.desktop,4 services_applications:Zoom.desktop,4 services_applications:vokoscreenNG.desktop,4 services_applications:Alacritty.desktop,5 services_applications:kcm_fonts.desktop,3 services_applications:jetbrains-webstorm.desktop,1 recentdocuments_file:///home/heron/Applications/Postman/app/resources/app/assets/icon.png,7 services_applications:jetbrains-datagrip.desktop,6 services_applications:postman.desktop,3 services_applications:org.kde.kcolorchooser.desktop,2 services_applications:firefox.desktop,5 services_applications:chromium-browser.desktop,6 services_applications:jetbrains-idea-ce.desktop,1 services_applications:kcmdolphinservices.desktop,1 services_applications:kcmkded.desktop,1 services_applications:kcm_kscreen.desktop,8 services_applications:jetbrains-phpstorm.desktop,11 services_applications:YaST2-org.opensuse.yast.SWSource.desktop,3 services_applications:slack.desktop,1 services_applications:kcm_cursortheme.desktop,1 recentdocuments_file:///home/heron/Applications/Beekeeper-Studio-1.7.5.AppImage,7 services_applications:code.desktop,1 services_applications:kcm_style.desktop,1 services_applications:kwintabbox.desktop,1 services_applications:YaST2-org.opensuse.yast.ServicesManager.desktop,1 services_applications:kcm_users.desktop,1 services_applications:YaST2-org.opensuse.yast.Printer.desktop,3 services_applications:brave-browser-beta.desktop,1 desktopsessions_4,3 services_applications:appimagekit_7279e0066e122d43f06f7d427ed6acbc-Beekeeper_Studio.desktop,7 services_applications:org.kde.kinfocenter.desktop,1 services_applications:desktoppath.desktop,2 services_applications:google-chrome.desktop,1 services_applications:YaST2-org.opensuse.yast.Disk.desktop,6 services_applications:org.opensuse.YaST.desktop,1 services_applications:filetypes.desktop
+LaunchCounts=1 services_applications:YaST2-org.opensuse.yast.Disk.desktop,2 services_applications:nvidia-settings.desktop,1 services_applications:kcmdolphinservices.desktop,7 services_applications:jetbrains-datagrip.desktop,1 services_applications:kcm_printer_manager.desktop,31 services_applications:kvantummanager.desktop,3 services_applications:keepass.desktop,3 services_applications:slack.desktop,8 services_applications:jetbrains-phpstorm.desktop,6 services_applications:jetbrains-idea-ce.desktop,4 services_applications:org.kde.kmail2.desktop,1 services_applications:cookies.desktop,1 services_applications:gparted.desktop,2 services_applications:org.kde.ksysguard.desktop,1 services_applications:kcm_style.desktop,1 services_applications:kcm_users.desktop,1 services_applications:autostart.desktop,1 services_applications:YaST2-org.opensuse.yast.Printer.desktop,2 services_applications:firefox.desktop,11 services_applications:org.opensuse.YaST.desktop,2 services_applications:google-chrome.desktop,3 services_applications:brave-browser-beta.desktop,1 services_applications:brave-browser.desktop,1 services_applications:claws-mail.desktop,2 services_applications:kcm_colors.desktop,1 services_applications:git-dag.desktop,1 services_applications:YaST2-org.opensuse.yast.ServicesManager.desktop,4 services_applications:vokoscreenNG.desktop,7 services_applications:org.kde.kinfocenter.desktop,1 services_applications:kcmkded.desktop,1 desktopsessions_4,1 services_applications:hplip.desktop,11 services_applications:YaST2-org.opensuse.yast.SWSource.desktop,5 services_applications:kcm_fonts.desktop,3 services_applications:jetbrains-webstorm.desktop,4 services_applications:com.uploadedlobster.peek.desktop,4 services_applications:appimagekit_7279e0066e122d43f06f7d427ed6acbc-Beekeeper_Studio.desktop,6 services_applications:postman.desktop,7 services_applications:code.desktop,2 services_applications:screenlocker.desktop,1 services_applications:desktoppath.desktop,3 services_applications:kwindecoration.desktop,2 services_applications:git-cola.desktop,1 recentdocuments_file:///home/heron/Applications/Postman/app/resources/app/assets/icon.png,1 services_applications:kwintabbox.desktop,1 services_applications:org.kde.kwrite.desktop,4 services_applications:simplescreenrecorder.desktop,2 services_applications:org.kde.kdeconnect.app.desktop,4 services_applications:jetbrains-studio.desktop,3 services_applications:cache.desktop,1 recentdocuments_file:///home/heron/Applications/Beekeeper-Studio-1.7.5.AppImage,3 services_applications:spotify.desktop,3 services_applications:org.kde.kcolorchooser.desktop,4 services_applications:Alacritty.desktop,1 services_applications:filetypes.desktop,3 services_applications:code-insiders.desktop,3 services_applications:kcm_kscreen.desktop,1 services_applications:kcm_cursortheme.desktop,4 services_applications:Zoom.desktop,5 services_applications:chromium-browser.desktop,6 services_applications:jetbrains-toolbox.desktop
 
 [PlasmaThemeExtended]
 outlineWidth=1
 
 [ScreenConnectors]
-10=eDP-1
-11=eDP-1-1
-12=DP-1
+10=eDP-1:::0,0 1920x1080
+11=eDP-1-1:::0,0 1920x1080
+12=DP-1:::0,0 2560x1440
+13=DP-1-1:::0,0 1920x1080
 
 [UniversalSettings]
 badges3DStyle=true
 canDisableBorders=true
 currentLayout=Heron
+downloadWindowSize=-1,-1
 inAdvancedModeForEditSettings=true
 lastNonAssignedLayout=Heron
 launchers=
+layoutsColumnWidths=
+layoutsWindowSize=-1,-1
 memoryUsage=0
 metaPressAndHoldEnabled=false
 mouseSensitivity=1
 screenTrackerInterval=2500
 showInfoWindow=true
 singleModeLayoutName=HeronUnity
+userConfiguredAutostart=true
 version=2
