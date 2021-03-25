@@ -53,17 +53,19 @@ outlineWidth=1
 11=eDP-1-1:::0,0 1920x1080
 12=DP-1:::0,0 2560x1440
 13=DP-1-1:::0,0 1920x1080
+14=eDP-1
+15=DP-1
 
 [UniversalSettings]
 badges3DStyle=true
 canDisableBorders=true
-currentLayout=Heron
-downloadWindowSize=-1,-1
+currentLayout=HeronUnity
+downloadWindowSize=800,550
 inAdvancedModeForEditSettings=true
-lastNonAssignedLayout=Heron
+lastNonAssignedLayout=HeronUnity
 launchers=
-layoutsColumnWidths=
-layoutsWindowSize=-1,-1
+layoutsColumnWidths=115,104,83,102
+layoutsWindowSize=700,607
 memoryUsage=0
 metaPressAndHoldEnabled=false
 mouseSensitivity=1
