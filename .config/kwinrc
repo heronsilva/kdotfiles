@@ -11,9 +11,6 @@ OpenGLIsUnsafe=false
 Id_1=1fd0fec8-549a-43b3-a49a-1ba420e27d90
 Id_2=f6f53b64-5a7d-41b7-af29-bdb0b752c89d
 Id_3=766f7c4a-af3c-49d5-822a-60be656929af
-Name_1=🖥
-Name_2=👨‍💻
-Name_3=🌐
 Number=3
 Rows=1
 
@@ -66,12 +63,13 @@ kwin-script-tilingEnabled=false
 kwin4_effect_fadeEnabled=false
 kwin4_effect_squashEnabled=false
 lattewindowcolorsEnabled=true
+magiclampEnabled=true
 minimizeallEnabled=false
 quarter-tilingEnabled=false
+sheetEnabled=true
 synchronizeskipswitcherEnabled=false
 toggleparachuteEnabled=false
 videowallEnabled=false
-wobblywindowsEnabled=true
 
 [Script-Parachute]
 animationsDuration=400
@@ -115,5 +113,5 @@ BorderSize=Tiny
 BorderSizeAuto=false
 ButtonsOnLeft=XIAM
 ButtonsOnRight=HFS
-library=org.kde.breezeenhanced
-theme=BreezeEnhanced
+library=org.kde.breeze
+theme=Breeze
